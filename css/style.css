@@ -119,6 +119,14 @@ span {
     color: #e96f37;
 }
 
+#park h2 {
+    color: #8cb5db;
+}
+
+#stomp h2 {
+    color: #dec237;
+}
+
 .tags {
     display: flex;
 }
